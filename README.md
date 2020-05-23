@@ -4,10 +4,14 @@ Classic PONG remake using [raylib](https://github.com/raysan5/raylib/)
 
 ### Building instructions
 
-Install dependencies ( `gcc`,`raylib` )
-
+<!---
+TODO: Add build instructions for other platforms
+-->
 
 GNU/Linux:
+
+Install dependencies ( `gcc`,`raylib` )
+
 ```
 git clone https://github.com/Mont555/GAMES
 cd GAMES/PONG2/
