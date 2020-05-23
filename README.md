@@ -1,4 +1,4 @@
-# PONG 2
+<img align="left" src="https://github.com/nik-cha/PONG2/blob/readme-edits/logo/PONG2_350x290.png" width=350>
 
 Classic PONG remake using [raylib](https://github.com/raysan5/raylib/)
 
