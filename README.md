@@ -4,7 +4,7 @@ Classic PONG remake using [raylib](https://github.com/raysan5/raylib/)
 
 ### Building instructions
 
-__Install dependencies ( `gcc`,`raylib` )
+Install dependencies ( `gcc`,`raylib` )
 
 
 GNU/Linux:
