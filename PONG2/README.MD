@@ -18,6 +18,11 @@ cd GAMES/PONG2/
 gcc main.c -lraylib -o PONG2
 ./PONG2
 ```
+Windows
+
+Install dependencies ( `minGW`,`raylib` )
+
+Build raylib using Notepad++ script
 
 ## Authors
 
