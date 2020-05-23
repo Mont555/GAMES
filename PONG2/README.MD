@@ -13,7 +13,7 @@ GNU/Linux:
 Install dependencies ( `gcc`,`raylib` )
 
 ```
-git clone https://github.com/Mont555/GAMES
+git clone https://github.com/Mont555/GAMES/PONG2 
 cd GAMES/PONG2/src
 gcc main.c -lraylib -o PONG2
 ./PONG2
