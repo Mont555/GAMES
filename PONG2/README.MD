@@ -1,4 +1,4 @@
-<img src="https://github.com/MONT555/GAMES/PONG2/logo/PONG2_350x290.png" width=350>
+<img src="https://github.com/Mont555/GAMES/blob/master/PONG2/logo/PONG2_350x290.png" width=350>
 
 Classic PONG remake using [raylib](https://github.com/raysan5/raylib/)
 
