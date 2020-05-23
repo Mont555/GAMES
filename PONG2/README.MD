@@ -22,7 +22,7 @@ Windows
 
 Install dependencies ( `minGW`,`raylib` )
 
-Build raylib using Notepad++ script
+Build using Notepad++ script
 
 ## Authors
 
