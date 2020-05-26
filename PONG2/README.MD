@@ -1,5 +1,3 @@
-<iframe src="https://itch.io/embed/651614?linkback=true" width="552" height="167" frameborder="0"><a href="https://montm.itch.io/pong-2">PONG 2 by Montm</a></iframe>
-
 <img src="https://github.com/Mont555/GAMES/blob/master/PONG2/logo/PONG2_350x290.png" width=350>
 
 Classic PONG remake using [raylib](https://github.com/raysan5/raylib/)
